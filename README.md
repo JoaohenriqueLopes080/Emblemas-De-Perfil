@@ -21,9 +21,13 @@ Patrocinador Público | <img src="https://raw.githubusercontent.com/Schweineprie
 
 # Tutorial Para Cada Conquista
 
-| Link | Usuario | Consquista
+| Nome | Link | Consquista
 | --- | --- | --- |
+Puxar Tubarão | https://www.youtube.com/watch?v=XBTA1JYDy5s |  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100px"> |
+Yolo | https://www.youtube.com/watch?v=-BkSSvnx9VI |  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="100px"> |
+Saque Rapido  | https://www.youtube.com/watch?v=-baVqc52CgY |  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100px"> |
 
+Caso Saiba de Mais Tutorias, Me Envie para Adicionar ao Repositorio.
 
 
 
@@ -51,4 +55,16 @@ Cada camada possui um rótulo x2, x3 ou x4 que também inclui cor. Aqui estão a
 🥇 Ouro | `x4` | ![x4](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-gold.svg) | `#FAE57E` | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
 
 
+# 👋 Realização Tons de Pele
+
+Algumas das realizações no GitHub aparecem com uma cor de pele diferente, dependendo da sua Preferência de Tom de Pele do Emoji.
+
+Você pode alterar o seu Tom de Pele preferido acessando as [configurações de aparência](https://github.com/settings/appearance).
+
+<br>
+
+| Nome | Versões de Tom de Pele | 
+| :-: | :-: |
+| Starstruck         | <table>  <tbody>  <tr>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="60px"></td>   <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone2.png" width="60px"></td>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone3.png" width="60px"></td>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone4.png" width="60px"></td>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone5.png" width="60px"></td>   <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
+|   Saque Rapido        | <table><tbody>  <tr>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px"></td>   <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png" width="60px"></td>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone3.png" width="60px"></td>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone4.png" width="60px"></td>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone5.png" width="60px"></td>   <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
 
